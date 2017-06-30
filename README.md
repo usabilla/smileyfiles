@@ -100,7 +100,7 @@ git push -u origin master
 
 ## To Do
 - [ ] Printable cheatsheets for:
-    - [ ] vim
+    - [x] vim
     - [ ] git
     - [ ] markdown
     - [x] tmux
