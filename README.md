@@ -106,7 +106,7 @@ git push -u origin master
     - [x] tmux
     - [ ] bash/zsh
 - [ ] Git files
-- [ ] Vim files
+- [x] Vim files
 - [x] Tmux files
 - [x] Stow files
 - [ ] Bash files (including prompt)
