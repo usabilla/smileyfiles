@@ -6,4 +6,10 @@ Tmux is a terminal multiplexer. It lets you switch easily between several progra
 Install
 -------
 
-Run `brew install tmux` to install tmux.
+Tmux was added to the [Brewfile](https://github.com/usabilla/smileyfiles/blob/master/_homebrew/Brewfile) of the repository. If however you want to install it manually, just run:
+
+    brew install tmux
+
+When you have [stow](https://github.com/usabilla/smileyfiles/tree/master/stow) setup and running, you should configure tmux by running:
+
+    stow -t ~ tmux
