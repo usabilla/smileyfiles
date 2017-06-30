@@ -1,4 +1,7 @@
 # smileyfiles
+
+<img src="https://rawgit.com/usabilla/smileyfiles/master/smiley.svg" width="100" height="100">
+
 Usabilla dotfiles! A collection of configuration files for Usabilla developers.
 
 ## Welcome!
@@ -14,7 +17,7 @@ Dotfiles are files/directories with a `.` prepended to their name. For example, 
 
 ### How to use this repo
 
-We've set up these dotfiles as a general guide. If you already have established dotfiles, you can pick and copy the pieces that seem useful to you. The helper commands in the `helpers` folder in particular may be useful for working on Usabilla projects. 
+We've set up these dotfiles as a general guide. If you already have established dotfiles, you can pick and copy the pieces that seem useful to you. The helper commands in the `helpers` folder in particular may be useful for working on Usabilla projects.
 
 **Creating your dotfiles**
 
@@ -30,7 +33,7 @@ mkdir dotfiles
 Then download smileyfiles and copy them into your `dotfiles` directory.
 
 ```
-cd dotfiles 
+cd dotfiles
 curl -L https://api.github.com/repos/usabilla/smileyfiles/tarball | tar xz --strip=1
 ```
 
@@ -50,7 +53,7 @@ Each of the folders in this repo is a "dotfiles package". They contain configura
 
 If you followed the homebrew step `stow` will have already been installed. If not run: `brew install stow`.
 
-Copy the `.stowrc.example` in the stow directory: 
+Copy the `.stowrc.example` in the stow directory:
 
 ```
 cd stow
@@ -97,7 +100,7 @@ git push -u origin master
 
 ## To Do
 - [ ] Printable cheatsheets for:
-    - [ ] vim
+    - [x] vim
     - [ ] git
     - [ ] markdown
     - [x] tmux
