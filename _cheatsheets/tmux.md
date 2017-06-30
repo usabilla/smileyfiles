@@ -1,5 +1,6 @@
 TMUX CHEAT SHEET
 ================
+_[print this cheatsheet](https://gitprint.com/usabilla/smileyfiles/blob/master/_cheatsheets/tmux.md)_
 
 Start a new session:
 
