@@ -12,4 +12,4 @@ Tmux was added to the [Brewfile](https://github.com/usabilla/smileyfiles/blob/ma
 
 When you have [stow](https://github.com/usabilla/smileyfiles/tree/master/stow) setup and running, you should configure tmux by running:
 
-    stow -t ~ tmux
+    stow tmux
