@@ -101,11 +101,11 @@ git push -u origin master
 ## To Do
 - [ ] Printable cheatsheets for:
     - [x] vim
-    - [ ] git
+    - [x] git
     - [ ] markdown
     - [x] tmux
     - [ ] bash/zsh
-- [ ] Git files
+- [x] Git files
 - [x] Vim files
 - [x] Tmux files
 - [x] Stow files
