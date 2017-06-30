@@ -21,4 +21,4 @@ Vim has a steep learning curve, but it will be worth the effort. If you are new 
 
     vimtutor
 
-When you are done reading, this repository contains a [cheat sheet](https://github.com/usabilla/smileyfiles/blob/master/_cheatsheets/tmux.md) with the basics for quick reference.
+When you are done reading, this repository contains a [cheat sheet](https://github.com/usabilla/smileyfiles/blob/master/_cheatsheets/vim.md) with the basics for quick reference.
