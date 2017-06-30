@@ -101,10 +101,9 @@ Inline `code` has `back-ticks around` it.
 
 
 ```no-highlight
- ```javascript
- var s = "JavaScript syntax highlighting";
- alert(s);
- ```
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);```
 ```
 
 ```javascript

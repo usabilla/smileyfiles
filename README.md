@@ -102,7 +102,7 @@ git push -u origin master
 - [ ] Printable cheatsheets for:
     - [x] vim
     - [x] git
-    - [ ] markdown
+    - [x] markdown
     - [x] tmux
     - [ ] bash/zsh
 - [x] Git files
