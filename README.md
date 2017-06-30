@@ -13,3 +13,4 @@ Usabilla dotfiles! A collection of configuration files for Usabilla developers
 
 Nice to have:
 - [ ] Wizard generator for creating custom dotfiles
+- [ ] Alfred workflows?
