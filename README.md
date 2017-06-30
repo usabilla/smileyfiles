@@ -1,6 +1,6 @@
 # smileyfiles
 
-<img src="https://cdn.rawgit.com/usabilla/smileyfiles/master/smiley.svg" width="100" height="100">
+<img src="https://rawgit.com/usabilla/smileyfiles/master/smiley.svg" width="100" height="100">
 
 Usabilla dotfiles! A collection of configuration files for Usabilla developers.
 
